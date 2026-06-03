@@ -1,0 +1,3 @@
+streamlit>=1.36
+gremlinpython>=3.7.2
+pyvis>=0.3.2
